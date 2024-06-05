@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://～
+https://hideaki-abe.github.io/bakachin_X/
 - ※APIキーの入力が必要です
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
@@ -23,7 +23,7 @@ https://～
 
 ## ⑥難しかった点・次回トライしたいこと(又は機能)
 
-- 今回実装できなかったGemini in Firebaseを活用していきたいです
+- 今回実装できなかったGemini in Firebaseも活用していきたいです
 
 ## ⑦質問・疑問・感想、シェアしたいこと等なんでも
 
